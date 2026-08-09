@@ -57,3 +57,4 @@ the gap and route traffic to the correct destination.
 ![Proxmox Dashboard](screenshots/proxmox.png)
 ![Pi-hole Dashboard](screenshots/pihole.png)
 ![Jellyfin Library](screenshots/jellyfin.png)
+![How it works](screenshots/homelab_architecture.png)
